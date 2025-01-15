@@ -6,4 +6,5 @@ Ejercicios realizados:
 
 1. Estructura básica de un sitio web.
 2. Listas ordenadas, desordenadas, anidadas y de definición.
-3. 
+3. Imágenes en el sitio web con dos formas diferentes.
+4. 
