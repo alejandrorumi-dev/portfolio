@@ -5,4 +5,5 @@ Aquí compartiré los ejercicios que vaya haciendo de **HTML** indicando el nomb
 Ejercicios realizados:
 
 1. Estructura básica de un sitio web.
-2. 
+2. Listas ordenadas, desordenadas y anidadas.
+3.
